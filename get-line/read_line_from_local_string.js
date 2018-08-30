@@ -2,12 +2,12 @@
 
   var myvar = `Hello_line_1\nHello_line_2\nHello_line_3\nHello_line_4`;
 
-  //READ ONLY LINES -> 5,6,7,8,9,10
+  //READ ONLY LINES -> 1,3,4
   String(myvar).getline([1,3,4], function(data){
     console.log( data )
   });
 
-  //REMOVE LINES -> 1,3,4,6
+  //REMOVE LINES -> 3,4
   String(myvar).remline ([3,4],function(data){
     console.log( data )
   });
