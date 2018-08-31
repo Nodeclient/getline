@@ -1,8 +1,6 @@
-  require('get-data-line');
+  require('get-data-line').loadFile("./demo.txt");
 
-  var myvar = ``;
-
-  loadFile("./demo.txt");
+  var myvar = `local_strings`;
 
   //READ ONLY LINES -> 5,6,7,8,9,10
   String(myvar).getline([5,6,7,8,9,10], function(data){
