@@ -1,4 +1,4 @@
-## Read String line by line
+## Read String line by line (node.Js v.10)
 * Package Install ```npm i get-data-line```
 
 > Example 1: Read text file (**demo.txt**) [Source-Code](https://github.com/Nodeclient/getline/tree/master/get-line/1%20-%20Example%20(Load%20text%20file)).
