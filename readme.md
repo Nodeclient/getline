@@ -1,6 +1,9 @@
 ## Read String line by line
 * Package Install ```npm i get-data-line```
 
-https://runkit.com/embed/t5xgv2wmyzel
+> Example 1: Read text file (demo.txt) [Source-Code](https://github.com/Nodeclient/getline/tree/master/get-line/1%20-%20Example%20(Load%20text%20file)).
+
+> Example 2: Read variables string (demo.txt) [Source-Code](https://github.com/Nodeclient/getline/tree/master/get-line/2%20-%20Example%20(Load%20local%20strings)).
 
 ![](https://j.gifs.com/l53WP5.gif)
+> Online Runkit Test: https://runkit.com/embed/t5xgv2wmyzel
